@@ -41,6 +41,9 @@ header{
     display: flex;
     justify-content: center;
 }
+.contenedor p, form{
+    margin-left: 50px;
+}
 label{
     display: inline-flex;
     width: 177px;
