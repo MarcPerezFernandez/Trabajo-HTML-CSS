@@ -42,10 +42,11 @@ header{
     display: flex;
     flex-wrap: wrap;
     gap: 10px 10px;
+    margin-left: 35px;
+    margin-bottom: 35px;
 }
 .contenedor img{
     border-radius: 10px;
-    
 }
 footer{
     display: flex;
